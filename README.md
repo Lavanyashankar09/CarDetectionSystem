@@ -1,7 +1,8 @@
 # CarDetectionSystem
 
 Built with python and openCV framework
-tools - Jupyter Notebook
+
+Tools - Jupyter Notebook
 
 AIM - To detect Car in video frames and to keep tracking the same object
 
