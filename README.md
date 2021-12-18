@@ -1,6 +1,6 @@
 # CarDetectionSystem
 
-Built with python and openCV framework
+Built with python, numpy, time, and openCV framework
 
 Tools - Jupyter Notebook
 
